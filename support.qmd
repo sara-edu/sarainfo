@@ -1,0 +1,25 @@
+---
+toc: false
+---
+
+!["Atta Deep Bhava" artwork by Malvika Raj](images/buddha.jpg)
+
+# SUPPORT US
+
+## Teach Our Students:
+
+- You can take online/offline sessions for our students as per your data science expertise.
+
+- You can also help our student with English reading, writing, and speaking.
+
+- You can also give a talk to sensitize students about the current world affairs.
+
+## Donate For Our Students:
+
+- You can buy books for us. Click to see our [Amazon book wishlist](https://www.amazon.in/hz/wishlist/ls/34WFKDGTLJGSJ?ref_=wl_share).
+
+- Most of our students cannot afford laptops. You can donate used/new laptops. It will help our students to attend coding lab sessions more effectively.
+
+- You can also donate money to support our cause.
+
+![](images/donation.png){width="50%" fig-align="center"}

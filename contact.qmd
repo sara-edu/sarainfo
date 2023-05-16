@@ -1,0 +1,29 @@
+---
+toc: false
+---
+
+#### {{< fa envelope >}} **Email us at**
+
+```{r}
+#| eval: false
+sara.institute.info@gmail.com
+```
+
+#### {{< fa taxi >}} **How to reach SARA Institute?**
+
+SARA Institute is based in Delhi NCR. We are around 80 kilometers (~ 50 miles) from the IGI Delhi International Airport. By road is the best way to reach SARA Institute. 
+
+#### {{< fa home >}} **Address**
+
+Ajay Kumar Koli    
+Villa Number 001\    
+Terra City, Abhanpur\   
+(on Alwar Bhiwadi Highway)\     
+Tehsil Tizara, District Alwar\    
+Pincode 301411    
+Rajasthan, India
+
+<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3522.3658800201238!2d76.83630891558462!3d28.013290982666117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3972cb68f766b76f%3A0xc035d31e9b93403f!2sTerra%20City!5e0!3m2!1sen!2sin!4v1679658693261!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+

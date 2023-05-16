@@ -4,13 +4,55 @@
     "href": "index.html",
     "title": "SARA Institute",
     "section": "",
-    "text": "SARA Institute\nSavitribai Ramabai Institute of Data Science, also called SARA Institute, is a charitable education organization. We provide free data science, research, and English language education to underrepresented students in India.\nWe are influenced and inspired by many Dalit, Adivasi, and Bahujan leaders for social democracy and justice. We need your love and support. Please feel free to contact us at\n\nsara.institute.info@gmail.com"
+    "text": "“Mai (Mother)” artwork by Malvika Raj\n\n\n\nSARA Institute\nSavitribai Ramabai Institute of Data Science, also called SARA Institute, is a charitable education organization. We provide free data science, research, and English language education to underrepresented students in India.\nWe are influenced and inspired by many Dalit, Adivasi, and Bahujan leaders for social democracy and justice. We need your love and support. Please feel free to contact us at\n\nsara.institute.info@gmail.com"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About us",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "SARA institute is a tribute to Savitrimai Phule and Ramamai Ambedkar. We provide free data science, research, and English education to Dalit, Adivasi, and Bahujan students in India.\nEvery year, we aim to teach around thirty students. Our courses help students to land their first data science job or avail scholarship for higher studies.\n\n\n\nBack left to right Radhika Amma, Nangeli, Ramabai, Savitribai Phule, Fatima Sheikh, Phoolan Devi. Front left to right Gauri Lankesh, Urmila Pawar, Grace Banu. Artwork by Malvika Raj"
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "SUPPORT US",
+    "section": "",
+    "text": "“Atta Deep Bhava” artwork by Malvika Raj"
+  },
+  {
+    "objectID": "support.html#teach-our-students",
+    "href": "support.html#teach-our-students",
+    "title": "SUPPORT US",
+    "section": "Teach Our Students:",
+    "text": "Teach Our Students:\n\nYou can take online/offline sessions for our students as per your data science expertise.\nYou can also help our student with English reading, writing, and speaking.\nYou can also give a talk to sensitize students about the current world affairs."
+  },
+  {
+    "objectID": "support.html#donate-for-our-students",
+    "href": "support.html#donate-for-our-students",
+    "title": "SUPPORT US",
+    "section": "Donate For Our Students:",
+    "text": "Donate For Our Students:\n\nYou can buy books for us. Click to see our Amazon book wishlist.\nMost of our students cannot afford laptops. You can donate used/new laptops. It will help our students to attend coding lab sessions more effectively.\nYou can also donate money to support our cause."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "1 R For Beginners",
+    "section": "",
+    "text": "“Waiting for a Visa” artwork by Malvika Raj\n\n\n\n1 R For Beginners\n\nR is programming language. R project website defines it as “a language and environment for statistical computing and graphics”. R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.\nWe will be following the online book R for Data Science. Each chapter will be covered including the exercises. Using this book will be covering about data science framework, data Visualization, data Cleaning, quarto for making slides, websites, thesis, & reports.\n\n\n2 Basics of Statistics\n\nLearning statistics is one of the most important part of the data science. We will be “discovering” statistics using the book from one of the most respected and favorite author around the world - PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺\nUsing this book we will be the following topics:\nWhy you need science; Reporting research, variables and measurement; Summarizing Data; Fitting models (central tendency); Presenting data; z-scores; Probability; Inferential statistics; Robust estimation; Hypothesis testing; Modern approaches to theory testing; Assumptions; Relationships (correlation); The general linear model; comparing two means; Comparing several means; Factorial designs\n\n\n3 Research Methods\n\n\n\n\n\n\n\n\n\n\n\nCodes executes what you think but what you think it depends upon how you look upon an issue. Research methodology helps us to think critical about the problems and questions; it teachers us how to systematically find the earlier or other possible solution in the ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.\nAcademics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three different books:\n\n\n4 Data Visualization\n\nMore info soon\n\n\n\n5 An Introduction to GitHub\n\nMore info soon"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "SARA Institute",
+    "section": "",
+    "text": "Email us at\n\nsara.institute.info@gmail.com\n\n\n\n How to reach SARA Institute?\nSARA Institute is based in Delhi NCR. We are around 80 kilometers (~ 50 miles) from the IGI Delhi International Airport. By road is the best way to reach SARA Institute.\n\n\n Address\nAjay Kumar Koli\nVilla Number 001 \nTerra City, Abhanpur \n(on Alwar Bhiwadi Highway) \nTehsil Tizara, District Alwar \nPincode 301411\nRajasthan, India"
+  },
+  {
+    "objectID": "about.html#dr.-ajay-koli-phd-founder-and-executive-director-fa-brands-github",
+    "href": "about.html#dr.-ajay-koli-phd-founder-and-executive-director-fa-brands-github",
+    "title": "About us",
+    "section": "Dr. Ajay Koli, PhD | Founder and Executive Director | ",
+    "text": "Dr. Ajay Koli, PhD | Founder and Executive Director | \n\n“Cultivation of mind should be the ultimate aim of human existence.” - Babasaheb Dr. B. R. Ambedkar\n\nI’m a first-generation Ph.D. academic from a Scheduled Caste (SC) in India. Savitribai Ramabai Institute of Data Science (SARA Institute) is my initiative to take data science education to underrepresented students in India. I use R & RStudio to teach data science. I am sincerely trying to make teaching and learning data science less painful.\nThe purpose of education is to awaken the people. An awakening towards a sense of agency to agitate for a dignified life facilitates organizing against injustice. I teach Research Methodology (RM) and Data Science (DS) with the same spirit that enables my students to practice and apply their classroom learning to better understand and evaluate both the day-to-day, as well as real-world challenges like climate change, casteism, and racism.\nFor me, teaching is a process of sheer joy, learning, and debate. I prepare my lectures in such a way that my excitement about the topic is quickly shared by the students as well which makes learning new things less intimidating. Before starting a new topic, I prefer to take quick feedback from the students about the previous lectures. I also summarize previous topics and share with students an outline of the present lecture and where it fits in the course. This helps students to prepare themselves for the lecture ahead.\nDuring my teaching experience, I realized some students hesitate to speak up in the classroom setting. Hence, I give them enough time to develop a connection with the course. I always welcome them to email me or meet me during office hours. I know the importance of education, classroom integrity, and respectful professional relationships. I always make sure no direct or indirect discrimination is experienced by any student due to their gender, color, religion, or caste. Before leaving the lecture hall, I ensure the satisfaction of work myself and a smile for my students who are looking forward to the next teaching session with curiosity."
   }
 ]

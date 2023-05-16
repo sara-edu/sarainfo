@@ -1,0 +1,61 @@
+---
+number-sections: true
+toc: true
+toc-title: COURSES
+---
+
+!["Waiting for a Visa" artwork by Malvika Raj](images/baba.jpg)
+
+# R For Beginners
+
+![](https://r4ds.hadley.nz/cover.png){width="25%"}
+
+R is programming language. [R project](https://www.r-project.org/about.html) website defines it as "a language and environment for statistical computing and graphics". R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.
+
+We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book will be covering about data science framework, data Visualization, data Cleaning, quarto for making slides, websites, thesis, & reports.
+
+# Basics of Statistics
+
+![](https://m.media-amazon.com/images/I/81MYDyMp6lL.jpg){width="25%"}
+
+Learning statistics is one of the most important part of the data science. We will be "discovering" statistics using the book from one of the most respected and favorite author around the world - [PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺 ](https://www.discoveringstatistics.com/) 
+
+Using this book we will be the following topics:
+
+Why you need science; Reporting research, variables and measurement; Summarizing Data; Fitting models (central tendency); Presenting data; z-scores; Probability; Inferential statistics; Robust estimation; Hypothesis testing; Modern approaches to theory testing; Assumptions; Relationships (correlation); The general linear model; comparing two means; Comparing several means; Factorial designs
+
+# Research Methods
+
+:::: {.grid}
+
+::: {.g-col-3}
+
+![](https://images.squarespace-cdn.com/content/v1/5c1aa51d5ffd20b405c93923/1545785804032-KMK95UIM01DMCD5R670X/Research+Design?format=500w){width="100%"}
+
+:::
+
+::: {.g-col-3}
+![](https://m.media-amazon.com/images/I/711opkha5DS._AC_UY436_QL65_.jpg){width="100%"}
+
+:::
+::: {.g-col-3}
+
+![](https://m.media-amazon.com/images/I/818pdQaq4xL.jpg){width="100%"}
+:::
+
+::::
+
+Codes executes what you think but what you think it depends upon how you look upon an issue. Research methodology helps us to think critical about the problems and questions; it teachers us how to systematically find the earlier or other possible solution in the ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.
+
+Academics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three different books:
+
+# Data Visualization
+
+> More info soon
+
+# An Introduction to GitHub
+
+> More info soon
+
+
+
