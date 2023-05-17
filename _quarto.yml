@@ -1,8 +1,18 @@
 project:
   type: website
-
+  resources: 
+    - "images/twitter-card.jpg"
+  
 website:
+  favicon: images/chakra.png
   title: "SARA Institute"
+  site-url: https://saraedu.netlify.app/
+  description: "Free Data Science Edcuation for Dalit, Bahujan and Adivasi students."
+  
+  open-graph: true
+  twitter-card:
+    creator: "@sara_institute" 
+    image: "/images/twitter-card.jpg"
   
   navbar:
     right:
@@ -23,14 +33,11 @@ website:
     right:
       - icon: twitter
         href: https://twitter.com/sara_institute
-        aria-label: Twitter 
-        
+        aria-label: Twitter      
+
 format:
   html:
     theme: [flatly, styles.scss]
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
-
-editor: visual
-
