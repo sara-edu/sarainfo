@@ -10,23 +10,24 @@ toc-title: COURSES
 
 ![](https://r4ds.hadley.nz/cover.jpg){width="25%"}
 
+I began my data science journey with R language. To know more about my journey as a data science teacher please visit 
 R is programming language. [R project](https://www.r-project.org/about.html) website defines it as "a language and environment for statistical computing and graphics". R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.
 
-We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book will be covering about data science framework, data Visualization, data Cleaning, quarto for making slides, websites, thesis, & reports.
+We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports.
 
 # Basics of Statistics
 
 ![](https://m.media-amazon.com/images/I/81MYDyMp6lL.jpg){width="25%"}
 
-Learning statistics is one of the most important part of the data science. We will be "discovering" statistics using the book from one of the most respected and favorite author around the world - [PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺](https://www.discoveringstatistics.com/)
+Learning statistics is one of the most important part of data science. We will be "discovering" statistics using the book from one of the most respected researchers in the field, [PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺](https://www.discoveringstatistics.com/)
 
-Using this book we will be the following topics:
+Using this book we will be exploring the following topics:
 
-Why you need science; Reporting research, variables and measurement; Summarizing Data; Fitting models (central tendency); Presenting data; z-scores; Probability; Inferential statistics; Robust estimation; Hypothesis testing; Modern approaches to theory testing; Assumptions; Relationships (correlation); The general linear model; comparing two means; Comparing several means; Factorial designs
+Why you need science; reporting research, variables and measurement; summarizing data; fitting models (central tendency); presenting data; z-scores; probability; inferential statistics; robust estimation; hypothesis testing; modern approaches to theory testing; assumptions; relationships (correlation); the general linear model; comparing two means; comparing several means; factorial designs.
 
 # Research Methods
 
-Academics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three different books:
+Academics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three books:
 
 ::: grid
 ::: g-col-3
@@ -42,7 +43,7 @@ Academics or industry this course will be extremely helpful for you to evolve cr
 :::
 :::
 
-Codes executes what you think but what you think it depends upon how you look upon an issue. Research methodology helps us to think critical about the problems and questions; it teachers us how to systematically find the earlier or other possible solution in the ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.
+Codes execute what you think; however what you think depends on how you view a specific issue. Research methodology helps us think critically about problems and questions; it teaches us how to find earlier or other possible solutions in an ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.
 
 # Python of Beginners
 

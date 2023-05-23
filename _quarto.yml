@@ -6,11 +6,13 @@ project:
 website:
   favicon: images/chakra.png
   title: "SARA Institute"
+  image: "images/twitter-card.jpg"
   site-url: https://saraedu.netlify.app/
-  description: "Free Data Science Edcuation for Dalit, Bahujan and Adivasi students."
+  description: "Free data science education for underrepresented students."
   
   open-graph: true
   twitter-card:
+    site: "@sara_institute" 
     creator: "@sara_institute" 
     image: "/images/twitter-card.jpg"
   

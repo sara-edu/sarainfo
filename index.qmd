@@ -8,7 +8,7 @@ toc: false
 
 Savitribai Ramabai Institute of Data Science, also called SARA Institute, is a charitable education organization. We provide free data science, research, and English language education to underrepresented students in India.
 
-We are influenced and inspired by many Dalit, Adivasi, and Bahujan leaders for social democracy and justice. We need your love and support. Please feel free to contact us at
+We are influenced and inspired by many Dalit, Adivasi, and Bahujan leaders for social democracy and justice. We need your love and support. Please feel free to contact us at:
 
 ```{r}
 #| eval: false

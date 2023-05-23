@@ -4,9 +4,9 @@ toc: true
 
 # About us
 
-SARA institute is a tribute to Savitrimai Phule and Ramamai Ambedkar. We provide free data science, research, and English education to Dalit, Adivasi, and Bahujan students in India.
+SARA institute is a tribute to Savitrimai Phule and Ramamai Ambedkar. We provide free data science, research, and English language education to Dalit, Adivasi, and Bahujan students in India.
 
-Every year, we aim to teach around thirty students. Our courses help students to land their first data science job or avail scholarship for higher studies.
+Every year, we aim to teach around thirty students. Our courses help students land their first data science job or avail scholarship for higher studies.
 
 ![Back left to right Radhika Amma, Nangeli, Ramabai, Savitribai Phule, Fatima Sheikh, Phoolan Devi. Front left to right Gauri Lankesh, Urmila Pawar, Grace Banu. Artwork by Malvika Raj](images/sara.jpg)
 
@@ -15,6 +15,7 @@ Every year, we aim to teach around thirty students. Our courses help students to
 ![](images/ajay.png){fig-align="center" width="25%"}
 
 ## Dr. Ajay Koli, PhD | Founder and Executive Director | [{{< fa brands github >}}](https://github.com/koliajaykr)
+
 > "Cultivation of mind should be the ultimate aim of human existence." - Babasaheb Dr. B. R. Ambedkar
 
 I'm a first-generation Ph.D. academic from a Scheduled Caste (SC) in India. Savitribai Ramabai Institute of Data Science (SARA Institute) is my initiative to take data science education to underrepresented students in India. I use R & RStudio to teach data science. I am sincerely trying to make teaching and learning data science less painful.
@@ -25,17 +26,24 @@ For me, teaching is a process of sheer joy, learning, and debate. I prepare my l
 
 During my teaching experience, I realized some students hesitate to speak up in the classroom setting. Hence, I give them enough time to develop a connection with the course. I always welcome them to email me or meet me during office hours. I know the importance of education, classroom integrity, and respectful professional relationships. I always make sure no direct or indirect discrimination is experienced by any student due to their gender, color, religion, or caste. Before leaving the lecture hall, I ensure the satisfaction of work myself and a smile for my students who are looking forward to the next teaching session with curiosity.
 
+--------------------
+<br>
+<br>
+<br>
+
 ![](images/kiran.png){fig-align="center" width="25%"}
 
 ## Dr. Kiran Koli, PhD | Co-Founder and Director | [{{< fa brands linkedin >}}](https://in.linkedin.com/in/dr-kiran-koli-85263a5b)
 
+> "I measure the progress of a community with the degree of progress women have achieved." - Babasaheb Dr. B. R. Ambedkar
+
 Qualifications:
 
-- Ph. D (Dairy Chemistry): ICAR-National Dairy Research Institute, Karnal, Haryana
+- Ph. D (Dairy Chemistry): ICAR-National Dairy Research Institute, Karnal, Haryana.
     
-- M. Sc (Food Technology): Guru Jambheshwar University of Science & Technology, Hisar, Haryana
+- M. Sc (Food Technology): Guru Jambheshwar University of Science & Technology, Hisar, Haryana.
 
-- ASRB - NET qualified 
+- ASRB - NET qualified.
 
 Dr. Kiran Lata has more than 3 year of teaching experience in various subjects of Food Technology at graduation as well as post-graduation level. She has supervised UG and PG students in their major dissertation projects also. She has a good publications in peer-reviewed journals. Two years’ research experience in projects from National Dairy Research Institute, Karnal. She is presently working as Faculty in Department of Food Processing and Technology, SoVSAS, Gautam Buddha University, Greater Noida, Uttar Pradesh.
 
