@@ -4,7 +4,7 @@ toc: true
 
 # About us
 
-SARA institute is a tribute to Savitrimai Phule and Ramamai Ambedkar. We provide free data science, research, and English language education to Dalit, Adivasi, and Bahujan students in India.
+SARA institute is a tribute to Savitrimai Phule and Ramamai Ambedkar. We provide free data science, research, and English language education to Dalit, Adivasi, Bahujan, and EWS students in India.
 
 Every year, we aim to teach around thirty students. Our courses help students land their first data science job or avail scholarship for higher studies.
 
@@ -12,7 +12,7 @@ Every year, we aim to teach around thirty students. Our courses help students la
 
 # Meet our Team {#cha-team}
 
-![](images/ajay.png){fig-align="center" width="25%"}
+![](images/ajay.png){fig-align="center" width="30%"}
 
 ## Dr. Ajay Koli, PhD | Founder and Executive Director | [{{< fa brands github >}}](https://github.com/koliajaykr)
 
@@ -31,7 +31,7 @@ During my teaching experience, I realized some students hesitate to speak up in 
 <br>
 <br>
 
-![](images/kiran.png){fig-align="center" width="25%"}
+![](images/kiran.png){fig-align="center" width="30%"}
 
 ## Dr. Kiran Koli, PhD | Co-Founder and Director | [{{< fa brands linkedin >}}](https://in.linkedin.com/in/dr-kiran-koli-85263a5b)
 

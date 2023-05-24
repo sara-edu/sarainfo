@@ -10,7 +10,7 @@ toc-title: COURSES
 
 ![](https://r4ds.hadley.nz/cover.jpg){width="25%"}
 
-I began my data science journey with R language. To know more about my journey as a data science teacher please visit 
+I began my data science journey with R language. To know more about my journey as a data science teacher please visit the website of my course ["R for Beginners"](https://r4b.netlify.app/). 
 R is programming language. [R project](https://www.r-project.org/about.html) website defines it as "a language and environment for statistical computing and graphics". R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.
 
 We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports.
