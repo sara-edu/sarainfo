@@ -23,7 +23,7 @@ website:
       - href: courses.qmd
         text: COURSES
       - href: support.qmd
-        text: SUPPORT US    
+        text: SUPPORT    
       - href: contact.qmd
         text: CONTACT
       - icon: twitter

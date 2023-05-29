@@ -1,12 +1,30 @@
 ---
-number-sections: true
+#number-sections: true
 toc: true
-toc-title: COURSES
+#toc-title: COURSES
+
 ---
 
 !["Waiting for a Visa" artwork by Malvika Raj](images/baba.jpg)
 
-# R For Beginners
+# Admission to the Courses
+
+We give admission to only thirty students. Any graduate student can apply to SARA Institute. We teach:
+
+- R programming to clean, visualize, model, and communicate the data.
+
+- Research methods to improve data analysis skills and develop critical research perspectives.
+
+- Statistics focus on the interpretation of the statistical results.
+
+- Data ethics to develop a broad perspective towards the pro and cons of Artificial Intelligence.
+
+- English language writing, reading, and speaking skills.
+
+It will take at least one year to finish all the above courses. All classes are in-person, so you must attend classes Monday to Friday from 9 am to 5 pm at the SARA Institute. There will be NO online classes. We do not promise any job. But we will give our best support to students to land their first data science job.
+
+# List of the Courses
+## 1. R For Beginners
 
 ![](https://r4ds.hadley.nz/cover.jpg){width="25%"}
 
@@ -15,7 +33,7 @@ R is programming language. [R project](https://www.r-project.org/about.html) web
 
 We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports.
 
-# Basics of Statistics
+## 2. Basics of Statistics
 
 ![](https://m.media-amazon.com/images/I/81MYDyMp6lL.jpg){width="25%"}
 
@@ -25,7 +43,7 @@ Using this book we will be exploring the following topics:
 
 Why you need science; reporting research, variables and measurement; summarizing data; fitting models (central tendency); presenting data; z-scores; probability; inferential statistics; robust estimation; hypothesis testing; modern approaches to theory testing; assumptions; relationships (correlation); the general linear model; comparing two means; comparing several means; factorial designs.
 
-# Research Methods
+## 3. Research Methods
 
 Academics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three books:
 
@@ -45,14 +63,30 @@ Academics or industry this course will be extremely helpful for you to evolve cr
 
 Codes execute what you think; however what you think depends on how you view a specific issue. Research methodology helps us think critically about problems and questions; it teaches us how to find earlier or other possible solutions in an ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.
 
-# Python of Beginners
+## 4. Python of Beginners
 
 > More information soon.
 
-# Data Visualization
+## 5. Data Visualization
 
 > More information soon.
 
-# An Introduction to GitHub
+## 6. An Introduction to GitHub
 
 > More information soon.
+
+# Benefits of the Courses
+
+✅ Free education in data science for a solid foundation to learn Artificial Intelligence, Machine Learning, and other advanced data science courses.
+
+✅ These courses will improve your research and analysis skills which means a strong
+Ph.D. application and proposal.
+
+✅ A lot of practical problem-solving projects to improve your coding.
+
+✅ A lot of presentations and writing assignments to improve your communication
+skills.
+
+# [Course Registration Link](https://forms.gle/QhFEjzPqWqt1tdtL9) 
+
+You are a champion. Take the first step of your data science journey. Join our courses. 

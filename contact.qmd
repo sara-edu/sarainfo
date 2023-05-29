@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# Contact us
+# CONTACT US
 
 #### {{< fa envelope >}} **Email us at**
 
