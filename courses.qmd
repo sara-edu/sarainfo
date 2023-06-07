@@ -7,6 +7,8 @@ toc: true
 
 !["Waiting for a Visa" artwork by Malvika Raj](images/baba.jpg)
 
+# [Registration Link](https://forms.gle/QhFEjzPqWqt1tdtL9) 
+
 # Admission to the Courses
 
 We give admission to only thirty students. Any graduate student can apply to SARA Institute. We teach:
@@ -86,7 +88,3 @@ Ph.D. application and proposal.
 
 ✅ A lot of presentations and writing assignments to improve your communication
 skills.
-
-# [Course Registration Link](https://forms.gle/QhFEjzPqWqt1tdtL9) 
-
-You are a champion. Take the first step of your data science journey. Join our courses. 

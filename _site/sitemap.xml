@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://saraedu.netlify.app/courses.html</loc>
+    <lastmod>2023-06-07T15:00:09.087Z</lastmod>
+  </url>
+  <url>
     <loc>https://saraedu.netlify.app/contact.html</loc>
-    <lastmod>2023-05-29T12:27:53.438Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saraedu.netlify.app/about.html</loc>
-    <lastmod>2023-05-29T14:47:58.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saraedu.netlify.app/index.html</loc>
-    <lastmod>2023-05-29T12:28:01.122Z</lastmod>
+    <lastmod>2023-06-07T15:00:10.758Z</lastmod>
   </url>
   <url>
     <loc>https://saraedu.netlify.app/support.html</loc>
-    <lastmod>2023-05-29T12:27:44.967Z</lastmod>
+    <lastmod>2023-06-07T15:00:11.068Z</lastmod>
   </url>
   <url>
-    <loc>https://saraedu.netlify.app/courses.html</loc>
-    <lastmod>2023-05-29T12:26:02.292Z</lastmod>
+    <loc>https://saraedu.netlify.app/index.html</loc>
+    <lastmod>2023-06-07T15:00:11.399Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saraedu.netlify.app/about.html</loc>
+    <lastmod>2023-06-07T15:00:11.850Z</lastmod>
   </url>
 </urlset>

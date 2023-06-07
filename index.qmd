@@ -6,8 +6,10 @@ toc: false
 
 # SARA Institute
 
-Savitribai Ramabai Institute of Data Science, also called as SARA Institute, is a non-profit educational organization in India. We empower under-represented communities using data science and research.
+Savitribai Ramabai Institute of Data Science, also called as SARA Institute, is a non-profit educational organization in India. We educate and empower under-represented communities using data science.
 
-We believe in the dream of Babasaheb "educate, agitate, and organize". We need your love 💙 and support. Please feel free to contact us at **`sara.institute.info@gmail.com`**.
+You are a champion. Take the first step of your data science journey. Join our courses.
 
-[**READ MORE** {{< fa arrow-right >}}](https://saraedu.netlify.app/about.html)
+We believe in the dream of Babasaheb "educate, agitate, and organize". We need your love 💙 and support. Please feel free to contact us at `sara.institute.info@gmail.com`.
+
+[READ MORE {{< fa arrow-right >}}](https://saraedu.netlify.app/about.html)
