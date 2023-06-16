@@ -1,37 +1,56 @@
 ---
-#number-sections: true
+title: Registration Link 
+description: <https://forms.gle/QhFEjzPqWqt1tdtL9>
+title-block-banner: "#E9E9E9"
+title-block-banner-color: "#000000"
+title-block-style: default
 toc: true
-#toc-title: COURSES
-
 ---
 
-!["Waiting for a Visa" artwork by Malvika Raj](images/baba.jpg)
+<style>
 
-# [Registration Link](https://forms.gle/QhFEjzPqWqt1tdtL9) 
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>
+
+
+!["Waiting for a Visa" artwork by Malvika Raj](images/baba.jpg)
 
 # Admission to the Courses
 
 We give admission to only thirty students. Any graduate student can apply to SARA Institute. We teach:
 
-- R programming to clean, visualize, model, and communicate the data.
+-   R programming to clean, visualize, model, and communicate the data.
 
-- Research methods to improve data analysis skills and develop critical research perspectives.
+-   Research methods to improve data analysis skills and develop critical research perspectives.
 
-- Statistics focus on the interpretation of the statistical results.
+-   Statistics focus on the interpretation of the statistical results.
 
-- Data ethics to develop a broad perspective towards the pro and cons of Artificial Intelligence.
+-   Data ethics to develop a broad perspective towards the pro and cons of Artificial Intelligence.
 
-- English language writing, reading, and speaking skills.
+-   English language writing, reading, and speaking skills.
 
 It will take at least one year to finish all the above courses. All classes are in-person, so you must attend classes Monday to Friday from 9 am to 5 pm at the SARA Institute. There will be NO online classes. We do not promise any job. But we will give our best support to students to land their first data science job.
 
 # List of the Courses
+
 ## 1. R For Beginners
 
 ![](https://r4ds.hadley.nz/cover.jpg){width="25%"}
 
-I began my data science journey with R language. To know more about my journey as a data science teacher please visit the website of my course ["R for Beginners"](https://r4b.netlify.app/). 
-R is programming language. [R project](https://www.r-project.org/about.html) website defines it as "a language and environment for statistical computing and graphics". R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.
+I began my data science journey with R language. To know more about my journey as a data science teacher please visit the website of my course ["R for Beginners"](https://r4b.netlify.app/). R is programming language. [R project](https://www.r-project.org/about.html) website defines it as "a language and environment for statistical computing and graphics". R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.
 
 We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports.
 
@@ -81,10 +100,8 @@ Codes execute what you think; however what you think depends on how you view a s
 
 ✅ Free education in data science for a solid foundation to learn Artificial Intelligence, Machine Learning, and other advanced data science courses.
 
-✅ These courses will improve your research and analysis skills which means a strong
-Ph.D. application and proposal.
+✅ These courses will improve your research and analysis skills which means a strong Ph.D. application and proposal.
 
 ✅ A lot of practical problem-solving projects to improve your coding.
 
-✅ A lot of presentations and writing assignments to improve your communication
-skills.
+✅ A lot of presentations and writing assignments to improve your communication skills.

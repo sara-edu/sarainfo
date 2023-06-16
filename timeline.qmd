@@ -1,0 +1,87 @@
+---
+title: SARA Timeline
+description: The details of important events conducted and attended by the SARA Institute team.
+#author: Ajay Koli
+affiliation: SARA Institute of Data Science 
+date: 06/14/2023
+date-modified: last-modified
+title-block-banner: "#E9E9E9"
+title-block-banner-color: "#000000"
+title-block-style: default
+toc: true
+---
+
+```{=html}
+<style>
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>
+```
+<!-- !["Quantum Leap" artwork by Malvika Raj](images/quantum_leap.jpg){width="700"} -->
+
+<br> <br> <br>
+
+# 🚀 2023 LAUNCH
+
+## 05 April 2023, SARA Institute Inauguration
+
+SARA Institute was inaugurated and started its first class.
+
+::: {layout="[[1,1], [1]]"}
+![First data science class](images/first_class1.jpg)
+
+![First R data science course](images/first_class2.jpg)
+
+![Family & Friends at Inaugration](images/inaugration.jpg)
+:::
+
+## 14 April 2023, SARA Institute
+
+We celebrated Babasaheb Dr. Bhim Rao Ambedkar's Birth Anniversary at the SARA.
+
+![](images/baba_jayanti.jpg){fig-align="center" width="400"}
+
+## 04 June 2023, Bichala & Salarpur Villages, RJ
+
+We visited 2-3 villages to promote data science education among the SC/ST/OBC students.
+
+Attended the Kabir Jayanti celebration.
+
+Also, meet a Bahujan student who secured 93% marks in the 10th class.
+
+::: {layout-ncol="2" layout-nrow="2" layout-valign="bottom"}
+![](images/kabir1.jpg)
+
+![](images/kabir2.jpg)
+
+![](images/kabir3.jpeg)
+
+![](images/kabir4.jpg)
+:::
+
+## 11 June 2023, Tijara, RJ
+
+SC-ST Youth Awareness Event conducted at Tijara, RJ.
+
+::: {layout-nrow="2" layout-valign="bottom"}
+![](images/tijara1.jpeg)
+
+![](images/tijara2.jpeg)
+
+![](images/tijara3.jpeg){width="500"}
+
+![](images/tijara4.jpeg)
+:::

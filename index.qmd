@@ -1,10 +1,31 @@
 ---
+title: Welcome to SARA Institute
+title-block-banner: "#E9E9E9"
+title-block-banner-color: "#000000"
+title-block-style: default
 toc: false
 ---
 
-!["Mai (Mother)" artwork by Malvika Raj](images/sa.jpg)
+<style>
 
-# SARA Institute
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>
+
+
+!["Mai (Mother)" artwork by Malvika Raj](images/sa.jpg)
 
 Savitribai Ramabai Institute of Data Science, also called as SARA Institute, is a non-profit educational organization in India. We educate and empower under-represented communities using data science.
 

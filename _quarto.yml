@@ -22,6 +22,8 @@ website:
         text: ABOUT
       - href: courses.qmd
         text: COURSES
+      - href: timeline.qmd
+        text: TIMELINE
       - href: support.qmd
         text: SUPPORT    
       - href: contact.qmd

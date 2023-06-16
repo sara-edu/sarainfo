@@ -1,10 +1,32 @@
 ---
+title: ABOUT US
+title-block-banner: "#E9E9E9"
+title-block-banner-color: "#000000"
+title-block-style: default
 toc: true
 ---
 
+<style>
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>
+
 ![Back left to right Radhika Amma, Nangeli, Ramabai, Savitribai Phule, Fatima Sheikh, Phoolan Devi. Front left to right Gauri Lankesh, Urmila Pawar, Grace Banu. Artwork by Malvika Raj](images/sara.jpg)
 
-# ABOUT US
+*Jai Bhim!! Namo Buddhay!!*
 
 On 05 April 2023, SARA Institute was founded by [Dr. Ajay Koli](https://koliajay.netlify.app/) and Dr. Kiran Koli. We are inspired by Dalit, Adivasi, and Bahujan leaders of social democracy and justice. SARA Institute of Data Science is a tribute to Savitribai Phule and Rambai Ambedkar. SARA is formed as “SA” taken from Savitrimai and “RA” from Ramai.
 

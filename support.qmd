@@ -1,10 +1,30 @@
 ---
-toc: false
+title: SUPPORT US
+title-block-banner: "#E9E9E9"
+title-block-banner-color: "#000000"
+title-block-style: default
+toc: true
 ---
 
-!["Atta Deep Bhava" artwork by Malvika Raj](images/buddha.jpg)
+<style>
 
-# SUPPORT US
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>
+
+!["Atta Deep Bhava" artwork by Malvika Raj](images/buddha.jpg)
 
 ## Teach Our Students:
 
