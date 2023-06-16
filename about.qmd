@@ -6,24 +6,6 @@ title-block-style: default
 toc: true
 ---
 
-<style>
-
-#title-block-header {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: -1px;
-  height: 75px;
-}
-
-.quarto-title-banner {
-  margin-block-end: 1rem;
-  position: relative;
-  margin-top: -30px;
-  height: 85%;
-}
-
-</style>
-
 ![Back left to right Radhika Amma, Nangeli, Ramabai, Savitribai Phule, Fatima Sheikh, Phoolan Devi. Front left to right Gauri Lankesh, Urmila Pawar, Grace Banu. Artwork by Malvika Raj](images/sara.jpg)
 
 *Jai Bhim!! Namo Buddhay!!*
