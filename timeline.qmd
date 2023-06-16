@@ -13,7 +13,7 @@ toc: true
 
 <!-- !["Quantum Leap" artwork by Malvika Raj](images/quantum_leap.jpg){width="700"} -->
 
-<br> <br> <br>
+<br>
 
 # 🚀 2023 LAUNCH
 
