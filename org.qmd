@@ -1,0 +1,6 @@
+---
+title: "Organisation"
+editor: visual
+---
+
+SARA is a non-governmental and nonprofit organisation consisting of the Institute of data science, its divisions, departments and faculties.

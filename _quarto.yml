@@ -5,7 +5,7 @@ project:
   
 website:
   favicon: images/chakra.png
-  title: "SARA Institute"
+  title: "SaRa Institute"
   image: "images/twitter-card.jpg"
   site-url: https://saraedu.netlify.app/
   description: "Free data science education for underrepresented students."
@@ -17,24 +17,35 @@ website:
     image: "/images/twitter-card.jpg"
   
   navbar:
-    right:
-      - href: about.qmd
-        text: ABOUT
-      - href: courses.qmd
-        text: COURSES
-      - href: timeline.qmd
-        text: TIMELINE
-      - href: support.qmd
-        text: SUPPORT    
-      - href: contact.qmd
-        text: CONTACT
+    left:
+      - text: COURSES
+        menu: 
+          - text: List of courses
+            href: courses.qmd
+          - text: Admission requirements
+            href: admission.qmd
+      - text: ABOUT US  
+        href: about.qmd
+      - text: NEWS & EVENTS
+        href: news.qmd
+        
+    right:  
+      - text: CONTACT US
+        href: contact.qmd
       - icon: twitter
         href: https://twitter.com/sara_institute
-        aria-label: SARA Twitter
+        aria-label: Twitter
+         
+
         
   page-footer: 
-    left: "CC &copy;-By SARA Institute" 
+    left:
+      - text: "&copy; SaRa Institute 2023"
+    center:
+      - text: "Educate. Agitate. Organize."
     right:
+      - href: contact.qmd
+        text: Contact us
       - icon: twitter
         href: https://twitter.com/sara_institute
         aria-label: Twitter      
@@ -45,3 +56,6 @@ format:
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
+    page-layout: article
+    fig-cap-location: bottom
+    fig-responsive: true

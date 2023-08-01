@@ -1,13 +1,10 @@
 ---
-title: SARA Timeline
+title: News and Events
 description: The details of important events conducted and attended by the SARA Institute team.
 #author: Ajay Koli
 affiliation: SARA Institute of Data Science 
 date: 06/14/2023
 date-modified: last-modified
-title-block-banner: "#E9E9E9"
-title-block-banner-color: "#000000"
-title-block-style: default
 toc: true
 ---
 
@@ -65,4 +62,19 @@ SC-ST Youth Awareness Event conducted at Tijara, RJ.
 ![](images/tijara3.jpeg){width="500"}
 
 ![](images/tijara4.jpeg)
+:::
+
+## 26 July 2023, Tijara, RJ
+
+We were invited as the chief guests at this event.
+
+::: {layout-nrow="2"}
+
+![](images/tijara-july1.jpeg)
+
+![](images/tijara-july2.jpeg)
+
+![](images/tijara-july3.jpeg)
+
+![](images/tijara-july4.jpeg)
 :::

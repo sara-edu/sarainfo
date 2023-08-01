@@ -1,20 +1,17 @@
 ---
-title: CONTACT US
-title-block-banner: "#E9E9E9"
-title-block-banner-color: "#000000"
-title-block-style: default
+title: Contact us
 ---
 
 #### {{< fa envelope >}} **Email us at**
 
 ```{r}
 #| eval: false
-sara.institute.info@gmail.com
+SaRa.institute.info@gmail.com
 ```
 
-#### {{< fa taxi >}} **How to reach SARA Institute?**
+#### {{< fa taxi >}} **How to reach SaRa Institute?**
 
-SARA Institute is based in Delhi NCR. We are around 80 kilometers (\~ 50 miles) from the IGI Delhi International Airport. By road is the best way to reach SARA Institute.
+SaRa Institute is based in Delhi NCR. We are around 80 kilometers (\~ 50 miles) from the IGI Delhi International Airport. By road is the best way to reach SaRa Institute.
 
 #### {{< fa home >}} **Address**
 

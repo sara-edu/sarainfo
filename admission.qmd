@@ -1,0 +1,80 @@
+---
+toc: true
+---
+
+::: {layout-ncol="2"}
+
+![*"Quantum leap" artwork by Malvika Raj.*](images/baba2.jpg){width="300"}
+
+::: {.callout-note icon=false title="Babasaheb Dr. B. R. Ambedkar says -" appearance="simple"}
+<br>[["Cultivation of mind should be the ultimate aim of human existence."]{.navy-blue}<br>]{.quote}
+:::
+
+:::
+
+
+# {{< fa door-open >}} Course admission requirements
+
+::: {.panel-tabset}
+
+## {{< fa graduation-cap >}} Courses
+
+- Data science courses
+
+- English language writing, speaking and listening course.
+
+## {{< fa indian-rupee-sign >}} Fee
+
+ No fee. 🎉 All courses are free for all the students.
+
+## {{< fa user >}} Eligibility
+
+- To study the data science courses, the students should be graduated in any discipline. 
+
+-  English language is open for all levels of students.
+
+##  {{< fa clock >}} Duration
+
+- 6 months
+
+- Monday to Friday
+  - 9 am to 11 am : Data science classes
+  - 3 pm to 5 pm : English language classes
+
+## {{< fa location-dot >}} Location
+
+- All classes will be face-to-face at the Terra City, Bhiwadi, Rajasthan - 301411
+
+:::
+
+# {{< fa pen >}} Course registration link
+
+<https://forms.gle/QhFEjzPqWqt1tdtL9>
+
+# {{< fa award >}} Course benefits
+
+On 1 Aug 2023, as per ChatGPT, the benefits of learning data science are:
+
+"Learning data science offers numerous benefits, as it is a multidisciplinary field that combines statistics, programming, and domain expertise to extract valuable insights from data. Here are some of the key benefits of learning data science:
+
+1. **High Demand and Career Opportunities**: Data science is one of the fastest-growing fields with a high demand for skilled professionals. Learning data science can open up various career opportunities in industries like technology, finance, healthcare, marketing, and more.
+
+2. **Solving Real-World Problems**: Data science allows you to analyze and interpret data to solve complex real-world problems. It empowers you to make data-driven decisions that can lead to improved business processes, increased efficiency, and better outcomes.
+
+3. **Competitive Advantage**: In today's data-driven world, organizations that can leverage data effectively gain a competitive advantage. Data science skills can help you stand out in the job market and make you an asset to any organization.
+
+4. **Lucrative Salaries**: Data scientists are in high demand, and as a result, they often receive attractive compensation packages and competitive salaries.
+
+5. **Innovation and Insights**: Data science enables you to discover patterns, trends, and insights that might not be apparent to others. This can lead to innovative solutions and strategies that drive business growth.
+
+6. **Continuous Learning**: Data science is an evolving field with new tools, techniques, and technologies being developed regularly. Learning data science ensures that you are continuously growing and adapting to the latest trends.
+
+7. **Cross-Industry Applicability**: Data science skills are transferable across various industries. Whether you're interested in finance, healthcare, e-commerce, or any other sector, data science can be applied to derive value from data in different contexts.
+
+8. **Personal Development**: Learning data science often involves improving your analytical, problem-solving, and programming skills, which can contribute to your personal and intellectual growth.
+
+9. **Contribution to Society**: Data science can be used for social good, such as in healthcare analytics, disaster response, and environmental monitoring. It allows you to make a positive impact on society by addressing critical issues.
+
+10. **Flexibility in Work Environment**: Many data science roles offer flexibility in work arrangements, such as remote work options, freelance opportunities, and consulting projects.
+
+Overall, learning data science equips you with valuable skills that are in demand, foster personal growth, and provide opportunities to contribute meaningfully to various industries and society as a whole."

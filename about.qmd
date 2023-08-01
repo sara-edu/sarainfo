@@ -1,18 +1,20 @@
 ---
-title: ABOUT US
-title-block-banner: "#E9E9E9"
-title-block-banner-color: "#000000"
-title-block-style: default
+title: About the SaRa Institute
+
 toc: true
 ---
 
-![Back left to right Radhika Amma, Nangeli, Ramabai, Savitribai Phule, Fatima Sheikh, Phoolan Devi. Front left to right Gauri Lankesh, Urmila Pawar, Grace Banu. Artwork by Malvika Raj](images/sara.jpg)
+SaRa is a leading center of data science learning, teaching and research in India.
+
+![*Back left to right Radhika Amma, Nangeli, Ramabai, Savitribai Phule, Fatima Sheikh, Phoolan Devi. Front left to right Gauri Lankesh, Urmila Pawar, Grace Banu. Artwork by Malvika Raj.*](images/sara.jpg)
 
 *Jai Bhim!! Namo Buddhay!!*
 
-On 05 April 2023, SARA Institute was founded by [Dr. Ajay Koli](https://koliajay.netlify.app/) and Dr. Kiran Koli. We are inspired by Dalit, Adivasi, and Bahujan leaders of social democracy and justice. SARA Institute of Data Science is a tribute to Savitribai Phule and Rambai Ambedkar. SARA is formed as “SA” taken from Savitrimai and “RA” from Ramai.
+SaRa is a non-governmental and nonprofit organisation consisting of the Institute of data science, its divisions, departments and faculties.
 
-SARA Institute provides free education to each and every student. Most of our students are first generation learners who come from non-English medium humble rural backgrounds. We teach students almost for a year which help them:
+On 05 April 2023, SaRa Institute was founded by [Dr. Ajay Koli](https://koliajay.netlify.app/) and Dr. Kiran Koli. We are inspired by Dalit, Adivasi, and Bahujan leaders of social democracy and justice. SaRa Institute of Data Science is a tribute to Savitribai Phule and Rambai Ambedkar. SaRa is formed as “SA” taken from Savitrimai and “RA” from Ramai.
+
+SaRa Institute provides free education to each and every student. Most of our students are first generation learners who come from non-English medium humble rural backgrounds. We teach students almost for a year which help them:
 
 - to get their first data science job,
 - to avail scholarship for higher education,
@@ -22,19 +24,6 @@ We conduct research projects to give hands-on data training to our students. We 
 
 We meet our expenses from the donations received from community members. We are sincerely thankful to our donors. Soon, we will also share about our future goals and plans.
 
-<!-- SARA institute is a tribute to Savitrimai Phule and Ramamai Ambedkar. We provide free data science, research, and English language education to Dalit, Adivasi, Bahujan, and EWS students in India. -->
-
-<!-- Every year, we aim to teach around thirty students. Our courses help students land their first data science job or avail scholarship for higher studies. -->
-
-<!-- Data science is an extremely important field of study. Today, whether you work in industry or academics you have to interact with data and/or its outputs. In India, several institutions offer data science education but somehow most of these courses are exclusionary due to their high fees and gated communities. -->
-
-<!-- Sara institute is a non-profit organization. It aims to offer free data science in-person education to underrepresented students (especially, SC/ST/OBC) in India. We will teach students how to do data analysis using advanced data science tools like R and Python. This will improve their prospects to get a better job or to avail scholarships for further studies. -->
-
-<!-- Each year, we are taking a maximum of thirty students across India. These students -->
-<!-- should have at least a graduate degree in any discipline and should be able to attend in-person data science courses, projects, and job training at the Sara Institute. We will facilitate students in getting accommodation and food services. But they will have to bear the room and food expenses (around five thousand rupees per month per student, 50 USD). Gradually, we will try to provide stipends to needy students. -->
-
-<!-- Sara Institute will meet its expenses through donations initially. In the future, once we have legal permissions from the Government of India (GOI) then we will do collaborative data science and research project for national and international institutions. We seek urgent donations to meet our expenses. -->
-
 # MEET OUR TEAM {#cha-team}
 
 ![](images/ajay.png){fig-align="center" width="30%"}
@@ -43,7 +32,7 @@ We meet our expenses from the donations received from community members. We are 
 
 > "Cultivation of mind should be the ultimate aim of human existence." - Babasaheb Dr. B. R. Ambedkar
 
-I'm a first-generation Ph.D. academic from a Scheduled Caste (SC) in India. Savitribai Ramabai Institute of Data Science (SARA Institute) is my initiative to take data science education to underrepresented students in India. I use R & RStudio to teach data science. I am sincerely trying to make teaching and learning data science less painful.
+I'm a first-generation Ph.D. academic from a Scheduled Caste (SC) in India. Savitribai Ramabai Institute of Data Science (SaRa Institute) is my initiative to take data science education to underrepresented students in India. I use R & RStudio to teach data science. I am sincerely trying to make teaching and learning data science less painful.
 
 The purpose of education is to awaken the people. An awakening towards a sense of agency to agitate for a dignified life facilitates organizing against injustice. I teach Research Methodology (RM) and Data Science (DS) with the same spirit that enables my students to practice and apply their classroom learning to better understand and evaluate both the day-to-day, as well as real-world challenges like climate change, casteism, and racism.
 
@@ -58,24 +47,13 @@ During my teaching experience, I realized some students hesitate to speak up in 
 
 ![](images/kiran.png){fig-align="center" width="30%"}
 
-## Dr. Kiran Koli, PhD | Co-Founder and Director | [{{< fa brands linkedin >}}](https://in.linkedin.com/in/dr-kiran-koli-85263a5b)
+## Dr. Kiran Koli, PhD | Founder and Director | [{{< fa brands linkedin >}}](https://in.linkedin.com/in/dr-kiran-koli-85263a5b)
 
 > "I measure the progress of a community with the degree of progress women have achieved." - Babasaheb Dr. B. R. Ambedkar
 
-Qualifications:
+I am Dr. Kiran Koli. SaRa Institute of Data Science is our initiative to educate under-
+represented students in India. I have done PhD in Dairy Chemistry from the Indian Council of Agricultural Research - National Dairy Research Institute, Karnal, Haryana. My M.Sc is in Food Technology from Guru Jambheshwar University of Science &amp; Technology, Hisar, Haryana. I have qualified the ASRB – NET in Food Technology. I have more than 3 years of teaching experience in various subjects of Food Technology from different universities at graduation and post-graduation levels. I also have experience in supervising Under Graduate and Post Graduate students in their major dissertation projects.
 
-- Ph. D (Dairy Chemistry): ICAR-National Dairy Research Institute, Karnal, Haryana.
-    
-- M. Sc (Food Technology): Guru Jambheshwar University of Science & Technology, Hisar, Haryana.
+I also have two years of research experience in different projects from the National Dairy Research Institute, Karnal, Haryana. I have good publications in peer-reviewed journals. I am also awarded the first best research paper, best review paper, and best poster awards. 
 
-- ASRB - NET qualified.
-
-Dr. Kiran Lata has more than 3 year of teaching experience in various subjects of Food Technology at graduation as well as post-graduation level. She has supervised UG and PG students in their major dissertation projects also. She has a good publications in peer-reviewed journals. Two years’ research experience in projects from National Dairy Research Institute, Karnal. She is presently working as Faculty in Department of Food Processing and Technology, SoVSAS, Gautam Buddha University, Greater Noida, Uttar Pradesh.
-
-Awards: 
-
-- First Best Research Paper for Development of Competitive Indirect Enzyme-linked Immunosorbent Assay for Detection of Cephalexin Residues in Milk, 2017 Published in Indian Journal of Dairy Science awarded by Indian Dairy Association (47th Dairy Industry Conference).
-
-- Best Paper - Review Article for Status of Antibiotic Residues in Milk –A Systematic Review Published in Indian Journal of Dairy and Biosciences, 2016 awarded by ICAR- NDRI (Bengaluru).
-
-- Best Poster award for Design of Lateral Flow Assay for detection of Oxytetracyline in milk 2015 by ICAR-NDRI (Karnal) XII- Agricultural Science Congress.
+I want to use my teaching and research experience for serving back to the society by educating students in India.

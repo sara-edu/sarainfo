@@ -1,17 +1,20 @@
 ---
-title: Welcome to SARA Institute
-title-block-banner: "#E9E9E9"
-title-block-banner-color: "#000000"
-title-block-style: default
 toc: false
+fig-cap-location: bottom
 ---
 
-!["Mai (Mother)" artwork by Malvika Raj](images/sa.jpg)
+::: {.navy-blue}
+# Discover new possibilities with SaRa Institute of Data Science. Welcome! 
+:::
 
-Savitribai Ramabai Institute of Data Science, also called as SARA Institute, is a non-profit educational organization in India. We educate and empower under-represented communities using data science.
+![*"Mai (Mother)" artwork by Malvika Raj.*](images/sa.jpg)
 
-You are a champion. Take the first step of your data science journey. Join our courses.
+SaRa Institute is a not-for-profit educational institution dedicated to providing quality education and fostering intellectual growth in a nurturing and inclusive environment. We are driven by a vision to empower individuals from all walks of life with knowledge, skills, and values that prepare them for a successful and fulfilling future.
 
-We believe in the dream of Babasaheb "educate, agitate, and organize". We need your love 💙 and support. Please feel free to contact us at `sara.institute.info@gmail.com`.
+SaRa stands for "Savitribai Ramabai Institute of Data Science". Established with a mission to make education accessible to everyone, SaRa Institute has been committed to delivering excellence in education since its inception. As a not-for-profit college, our primary focus is on providing a transformative learning experience rather than maximizing profits. We believe that education is a powerful tool that can break barriers, create opportunities, and drive positive change in society.
+
+We invite you to be a part of the SaRa family and embark on a transformative educational journey that will shape your future and empower you to make a positive impact on society. Explore our website to learn more about our programs, facilities, and the enriching experiences that await you at SaRa Institute.
+
+We need your love 💙 and support. Come and join us as we embrace the power of education to make a difference and build a brighter tomorrow together. Please feel free to contact us at `sara.institute.info@gmail.com`.
 
 [READ MORE {{< fa arrow-right >}}](https://saraedu.netlify.app/about.html)
