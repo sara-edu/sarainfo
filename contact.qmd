@@ -6,7 +6,7 @@ title: Contact us
 
 ```{r}
 #| eval: false
-SaRa.institute.info@gmail.com
+sara.institute.info@gmail.com
 ```
 
 #### {{< fa taxi >}} **How to reach SaRa Institute?**

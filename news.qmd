@@ -1,8 +1,8 @@
 ---
 title: News and Events
-description: The details of important events conducted and attended by the SARA Institute team.
+description: The details of important events conducted and attended by the SaRa Institute team.
 #author: Ajay Koli
-affiliation: SARA Institute of Data Science 
+affiliation: SaRa Institute of Data Science 
 date: 06/14/2023
 date-modified: last-modified
 toc: true
@@ -14,9 +14,9 @@ toc: true
 
 # 🚀 2023 LAUNCH
 
-## 05 April 2023, SARA Institute Inauguration
+## 05 April 2023, SaRa Institute Inauguration
 
-SARA Institute was inaugurated and started its first class.
+SaRa Institute was inaugurated and started its first class.
 
 ::: {layout="[[1,1], [1]]"}
 ![First data science class](images/first_class1.jpg)
@@ -26,9 +26,9 @@ SARA Institute was inaugurated and started its first class.
 ![Family & Friends at Inaugration](images/inaugration.jpg)
 :::
 
-## 14 April 2023, SARA Institute
+## 14 April 2023, SaRa Institute
 
-We celebrated Babasaheb Dr. Bhim Rao Ambedkar's Birth Anniversary at the SARA.
+We celebrated Babasaheb Dr. Bhim Rao Ambedkar's Birth Anniversary at the SaRa.
 
 ![](images/baba_jayanti.jpg){fig-align="center" width="400"}
 
@@ -66,7 +66,7 @@ SC-ST Youth Awareness Event conducted at Tijara, RJ.
 
 ## 26 July 2023, Tijara, RJ
 
-We were invited as the chief guests at this event.
+We were invited as the chief guests at this event. Purpose of this event was to facilitate the Bahujan students who secured distinction in secondary and higher secondary exams in Rajasthan. We interacted with the students and shared information about the SaRa Institute.
 
 ::: {layout-nrow="2"}
 

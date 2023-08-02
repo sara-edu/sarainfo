@@ -32,12 +32,13 @@ website:
     right:  
       - text: CONTACT US
         href: contact.qmd
+      - icon: github
+        href: https://github.com/sara-edu
+        aria-label: GitHub  
       - icon: twitter
         href: https://twitter.com/sara_institute
         aria-label: Twitter
-         
-
-        
+      
   page-footer: 
     left:
       - text: "&copy; SaRa Institute 2023"
@@ -46,6 +47,9 @@ website:
     right:
       - href: contact.qmd
         text: Contact us
+      - icon: github
+        href: https://github.com/sara-edu
+        aria-label: GitHub   
       - icon: twitter
         href: https://twitter.com/sara_institute
         aria-label: Twitter      

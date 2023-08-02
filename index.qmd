@@ -15,6 +15,10 @@ SaRa stands for "Savitribai Ramabai Institute of Data Science". Established with
 
 We invite you to be a part of the SaRa family and embark on a transformative educational journey that will shape your future and empower you to make a positive impact on society. Explore our website to learn more about our programs, facilities, and the enriching experiences that await you at SaRa Institute.
 
-We need your love 💙 and support. Come and join us as we embrace the power of education to make a difference and build a brighter tomorrow together. Please feel free to contact us at `sara.institute.info@gmail.com`.
+We need your love 💙 and support. Come and join us as we embrace the power of education to make a difference and build a brighter tomorrow together. Please feel free to contact us at
+```{r}
+#| eval: false
+sara.institute.info@gmail.com
+```
 
 [READ MORE {{< fa arrow-right >}}](https://saraedu.netlify.app/about.html)

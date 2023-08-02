@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -122,6 +156,11 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">CONTACT US</span></a>
   </li>  
   <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/sara-edu" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/sara_institute" rel="" target=""><i class="bi bi-twitter" role="img" aria-label="Twitter">
 </i> 
  <span class="menu-text"></span></a>
@@ -155,7 +194,10 @@ ul.task-list li input[type="checkbox"] {
 <p>SaRa Institute is a not-for-profit educational institution dedicated to providing quality education and fostering intellectual growth in a nurturing and inclusive environment. We are driven by a vision to empower individuals from all walks of life with knowledge, skills, and values that prepare them for a successful and fulfilling future.</p>
 <p>SaRa stands for “Savitribai Ramabai Institute of Data Science”. Established with a mission to make education accessible to everyone, SaRa Institute has been committed to delivering excellence in education since its inception. As a not-for-profit college, our primary focus is on providing a transformative learning experience rather than maximizing profits. We believe that education is a powerful tool that can break barriers, create opportunities, and drive positive change in society.</p>
 <p>We invite you to be a part of the SaRa family and embark on a transformative educational journey that will shape your future and empower you to make a positive impact on society. Explore our website to learn more about our programs, facilities, and the enriching experiences that await you at SaRa Institute.</p>
-<p>We need your love 💙 and support. Come and join us as we embrace the power of education to make a difference and build a brighter tomorrow together. Please feel free to contact us at <code>sara.institute.info@gmail.com</code>.</p>
+<p>We need your love 💙 and support. Come and join us as we embrace the power of education to make a difference and build a brighter tomorrow together. Please feel free to contact us at</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>sara.institute.info<span class="sc">@</span>gmail.com</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 <p><a href="https://saraedu.netlify.app/about.html">READ MORE <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i></a></p>
 
 
@@ -415,6 +457,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
     <a class="nav-link" href="./contact.html">Contact us</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/sara-edu">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
   </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/sara_institute">
