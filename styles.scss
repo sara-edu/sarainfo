@@ -30,3 +30,22 @@ $link-color-hover: lighten($link-color, 15%);
 .navy-blue {
   color: $navy-blue;
 }
+
+// this idea of rainbow color is borrowed from Emil's slides link https://github.com/EmilHvitfeldt/talk-nyr-slidecraft/blob/main/styles.scss
+
+.rainbow-red {color: #FF0002;}
+.rainbow-orange {color: #FF7800;}
+.rainbow-yellow {color: #FFFD0A;}
+.rainbow-green {color: #10DD15;}
+.rainbow-blue {color: #3050FF;}
+.rainbow-indigo {color: #7B20A3;}
+.rainbow-purple {color: #D501FA;}
+
+.banner {
+  font-size: 2em;
+}
+  
+.center {
+  text-align: center;
+}  
+

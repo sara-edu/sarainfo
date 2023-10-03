@@ -28,17 +28,17 @@ We meet our expenses from the donations received from community members. We are 
 
 ![](images/ajay.png){fig-align="center" width="30%"}
 
-## Dr. Ajay Koli, PhD | Founder and Executive Director | [{{< fa brands github >}}](https://github.com/koliajaykr)
+## Dr. Ajay Kumar Koli, PhD | Founder and Executive Director | [{{< fa brands github >}}](https://github.com/koliajaykr)
 
 > "Cultivation of mind should be the ultimate aim of human existence." - Babasaheb Dr. B. R. Ambedkar
 
-I'm a first-generation Ph.D. academic from a Scheduled Caste (SC) in India. Savitribai Ramabai Institute of Data Science (SaRa Institute) is my initiative to take data science education to underrepresented students in India. I use R & RStudio to teach data science. I am sincerely trying to make teaching and learning data science less painful.
+I am a first-generation Ph.D. scholar hailing from a Scheduled Caste (SC) background in India. With great pride, I introduce the Savitribai Ramabai Institute of Data Science (SaRa Institute), a project close to my heart aimed at bringing data science education to the underrepresented segments of India. My teaching toolkit comprises R and RStudio, enabling me to make data science education an accessible and engaging experience.
 
-The purpose of education is to awaken the people. An awakening towards a sense of agency to agitate for a dignified life facilitates organizing against injustice. I teach Research Methodology (RM) and Data Science (DS) with the same spirit that enables my students to practice and apply their classroom learning to better understand and evaluate both the day-to-day, as well as real-world challenges like climate change, casteism, and racism.
+Education, to me, is the beacon that awakens individuals, fostering a profound sense of agency and a determination to confront the injustices that persist in our society. In my roles as an educator, I impart this sense of awakening to my students, encouraging them to advocate for a dignified existence. I teach Research Methodology (RM) and Data Science (DS) with a passion that empowers my students to apply their classroom knowledge to decipher both the everyday challenges and complex global issues like climate change, casteism, and racism.
 
-For me, teaching is a process of sheer joy, learning, and debate. I prepare my lectures in such a way that my excitement about the topic is quickly shared by the students as well which makes learning new things less intimidating. Before starting a new topic, I prefer to take quick feedback from the students about the previous lectures. I also summarize previous topics and share with students an outline of the present lecture and where it fits in the course. This helps students to prepare themselves for the lecture ahead.
+Teaching, for me, is a journey of pure joy, mutual learning, and spirited debate. I craft my lectures to ignite the same enthusiasm in my students, transforming the process of acquiring new knowledge into an exciting adventure. Prior to delving into a new topic, I seek swift feedback from my students about previous lectures. I also recap prior lessons and provide an overview of the current lecture's place within the course, helping students prepare for what lies ahead.
 
-During my teaching experience, I realized some students hesitate to speak up in the classroom setting. Hence, I give them enough time to develop a connection with the course. I always welcome them to email me or meet me during office hours. I know the importance of education, classroom integrity, and respectful professional relationships. I always make sure no direct or indirect discrimination is experienced by any student due to their gender, color, religion, or caste. Before leaving the lecture hall, I ensure the satisfaction of work myself and a smile for my students who are looking forward to the next teaching session with curiosity.
+Recognizing that some students may initially hesitate to participate in classroom discussions, I offer them the time and space to build a connection with the course material. I warmly invite them to reach out via email or during office hours, valuing the importance of education, classroom inclusivity, and respectful professional relationships. I remain committed to ensuring that no student faces discrimination, be it direct or indirect, based on their gender, color, religion, or caste. As each lecture concludes, I take it upon myself to ensure that the students leave with both a sense of accomplishment and anticipation, sporting smiles in eager anticipation of our next enriching session.
 
 --------------------
 <br>
@@ -47,13 +47,14 @@ During my teaching experience, I realized some students hesitate to speak up in 
 
 ![](images/kiran.png){fig-align="center" width="30%"}
 
-## Dr. Kiran Koli, PhD | Founder and Director | [{{< fa brands linkedin >}}](https://in.linkedin.com/in/dr-kiran-koli-85263a5b)
+## Dr. Kiran Lata Koli, PhD | Founder and Director | [{{< fa brands linkedin >}}](https://in.linkedin.com/in/dr-kiran-koli-85263a5b)
 
 > "I measure the progress of a community with the degree of progress women have achieved." - Babasaheb Dr. B. R. Ambedkar
 
-I am Dr. Kiran Koli. SaRa Institute of Data Science is our initiative to educate under-
-represented students in India. I have done PhD in Dairy Chemistry from the Indian Council of Agricultural Research - National Dairy Research Institute, Karnal, Haryana. My M.Sc is in Food Technology from Guru Jambheshwar University of Science &amp; Technology, Hisar, Haryana. I have qualified the ASRB – NET in Food Technology. I have more than 3 years of teaching experience in various subjects of Food Technology from different universities at graduation and post-graduation levels. I also have experience in supervising Under Graduate and Post Graduate students in their major dissertation projects.
+I am Dr. Kiran Lata Koli, and I am proud to introduce SaRa Institute of Data Science, our heartfelt initiative to empower underrepresented students across India. My academic journey includes a PhD in Dairy Chemistry from the prestigious Indian Council of Agricultural Research - National Dairy Research Institute, located in Karnal, Haryana. Furthermore, I hold an M.Sc. in Food Technology from Guru Jambheshwar University of Science & Technology, Hisar, Haryana. My dedication to knowledge is evident in my qualification for the ASRB – NET in Food Technology.
 
-I also have two years of research experience in different projects from the National Dairy Research Institute, Karnal, Haryana. I have good publications in peer-reviewed journals. I am also awarded the first best research paper, best review paper, and best poster awards. 
+With over three years of teaching experience at both undergraduate and postgraduate levels, I have had the privilege of educating students in various aspects of Food Technology across different universities. Additionally, I have played a pivotal role in guiding and supervising numerous undergraduate and postgraduate students through their major dissertation projects.
 
-I want to use my teaching and research experience for serving back to the society by educating students in India.
+My journey in academia extends to two years of invaluable research experience at the National Dairy Research Institute in Karnal, Haryana. During this time, I have made significant contributions to peer-reviewed journals with publications that have been recognized with awards for the best research paper, best review paper, and best poster presentations.
+
+I am driven by a profound desire to give back to society by channeling my wealth of teaching and research experience to educate and empower the aspiring minds of India.

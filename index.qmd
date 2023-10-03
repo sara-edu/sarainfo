@@ -1,11 +1,36 @@
 ---
 toc: false
 fig-cap-location: bottom
+filters:
+   - lightbox
+lightbox: auto
 ---
+
+::: {.center}
+
+# [[A]{.rainbow-orange}[D]{.rainbow-blue}[M]{.rainbow-green}[I]{.rainbow-indigo}[S]{.rainbow-red}[S]{.rainbow-purple}[I]{.rainbow-blue}[O]{.rainbow-orange}[N]{.rainbow-purple}[S]{.rainbow-blue} [O]{.rainbow-indigo}[P]{.rainbow-red}[E]{.rainbow-green}[N]{.rainbow-blue}]{.banner}
+
+# [Register Here!!](https://forms.gle/QhFEjzPqWqt1tdtL9)
+
+:::
+
+::: {layout-ncol=2}
+
+![](images/poster2023e.png){width="370" .lightbox}
+
+![](images/poster2023h.png){width="370" .lightbox}
+
+:::
 
 ::: {.navy-blue}
 # Discover new possibilities with SaRa Institute of Data Science. Welcome! 
 :::
+
+```{=html}
+<a class="github-button" href="https://github.com/sara-edu/sarainfo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+```
+
+<br>
 
 ![*"Mai (Mother)" artwork by Malvika Raj.*](images/sa.jpg)
 

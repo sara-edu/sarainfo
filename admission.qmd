@@ -1,16 +1,16 @@
 ---
-toc: true
+toc: false
 ---
 
-::: {layout-ncol="2"}
+<!-- ::: {layout-ncol="2"} -->
 
-![*"Quantum leap" artwork by Malvika Raj.*](images/baba2.jpg){width="300"}
+<!-- ![*"Quantum leap" artwork by Malvika Raj.*](images/baba2.jpg){width="200"} -->
 
-::: {.callout-note icon=false title="Babasaheb Dr. B. R. Ambedkar says -" appearance="simple"}
-<br>[["Cultivation of mind should be the ultimate aim of human existence."]{.navy-blue}<br>]{.quote}
-:::
+<!-- ::: {.callout-note icon=false title="Babasaheb Dr. B. R. Ambedkar says -" appearance="simple"} -->
+<!-- <br>[["Cultivation of mind should be the ultimate aim of human existence."]{.navy-blue}<br>]{.quote} -->
+<!-- ::: -->
 
-:::
+<!-- ::: -->
 
 
 # {{< fa door-open >}} Course admission requirements
@@ -43,15 +43,21 @@ toc: true
 
 ## {{< fa location-dot >}} Location
 
-- All classes will be face-to-face at the Terra City, Bhiwadi, Rajasthan - 301411
+All classes will be face-to-face at the Dr. Ambedkar Bhawan, Kakroi Road, Sonipat, Haryana - 131001
+
+[Google Map](https://maps.app.goo.gl/eh3rgb92GkqAnPLR8)
 
 :::
+
+<br>
 
 # {{< fa pen >}} Course registration link
 
 <https://forms.gle/QhFEjzPqWqt1tdtL9>
 
-# {{< fa award >}} Course benefits
+<br>
+
+# {{< fa award >}} Benefits of learning data science
 
 On 1 Aug 2023, as per ChatGPT, the benefits of learning data science are:
 
